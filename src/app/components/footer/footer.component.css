@@ -1,0 +1,76 @@
+.grey {
+    background-color: #f9f9f9;
+}
+
+.foot-top {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.foot-first img {
+    width: 30%;
+    padding-bottom: 20px;
+}
+
+.foot-first h2 {
+    font-size: 16px!important;
+    font-weight: 400;
+    line-height: 1.4;
+    padding-bottom: 10px;
+}
+
+.foot-first p {
+    font-size: 16px!important;
+}
+
+.ul-list .active {
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 20px;
+    margin-left: -20px!important;
+}
+
+.ul-list {
+    margin-left: 30px;
+}
+
+.ul-list li {
+    list-style: none!important;
+    padding-bottom: 10px;
+    font-size: 16px;
+}
+
+.ul-address .active {
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+.ul-address li {
+    list-style: none!important;
+}
+
+.ul-address .active {
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+.ul-address li {
+    padding-bottom: 10px;
+    font-size: 16px;
+}
+
+.ul-address .fa {
+    padding-right: 4px!important;
+    /* color: #7b8088; */
+}
+
+.ul-social li {
+    list-style: none!important;
+    padding-right: 15px;
+}
+
+.ul-social .fa {
+    color: #7b8088;
+}

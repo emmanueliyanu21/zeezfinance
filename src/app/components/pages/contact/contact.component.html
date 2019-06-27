@@ -1,0 +1,45 @@
+<section class="grey">
+    <div class="container">
+        <div class="row details-con">
+            <div class="col-md-4">
+                <h2>Information</h2>
+                <div class="con-hello">
+                    <p>Say hello to us. Let us know how we can be of help to you.</p>
+
+                    <p class="fa fa-location">130, Old Street, London,</p>
+                    <p>EC1V9BD England.</p>
+                    <p class="fa fa-phone">+44 7443 076948</p>
+
+                    <p class="">info@myexpertskills.com</p>
+                </div>
+
+                <h2>Social Media</h2>
+
+            </div>
+            <div class="col-md-8">
+                <div class="con-fm">
+                    <h2>Contact Form</h2>
+                </div>
+                <form>
+                    <div class="form-group name">
+                        <label for="exampleFormControlInput1">Name</label>
+                        <input type="name" class="form-control form-control-lg" id="exampleFormControlInput1" placeholder="" name="name" required minlength="2">
+                        <!-- <div *ngIf="userName.errors?.required && userName.touched" class="alert alert-danger">Name is required</div> -->
+                        <!-- <div *ngIf="userName.errors?.minlength && userName.touched" class="alert alert-danger">Name should be at least 2 characters</div> -->
+                    </div>
+                    <div class="form-group email">
+                        <label for="exampleFormControlInput1">Email</label>
+                        <input type="email" class="form-control form-control-lg" id="exampleFormControlInput1" placeholder="" name="email" required minlength="2">
+                        <!-- <div *ngIf="userEmail.errors?.required && userEmail.touched" class="alert alert-danger">Email is required</div> -->
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleFormControlInput1">Message</label>
+                        <textarea class="form-control" name="body" required minlength="2" id="exampleFormControlTextarea1" rows="4"></textarea>
+                        <!-- <div *ngIf="userBody.errors?.required && userBody.touched" class="alert alert-danger">Body is required</div> -->
+                    </div>
+                    <button class="btn btn-send">Send Message</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>

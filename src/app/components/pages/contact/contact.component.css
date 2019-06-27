@@ -1,0 +1,71 @@
+.ul-left {
+    margin-left: 100px;
+}
+
+.navbar-nav li {
+    font-size: 14px!important;
+}
+
+.navbar-nav li a {
+    margin-right: 15px!important;
+    /* padding-right: 25px!important; */
+    padding-left: 15px!important;
+    padding-right: 15px!important;
+    font-weight: 600;
+    text-align: center!important;
+}
+
+.navbar-nav li a:hover {
+    background-color: rgb(78, 78, 78);
+    color: #fff;
+    border-radius: 4px;
+}
+
+.navbar {
+    background-color: transparent!important;
+}
+
+.ul-right .fa {
+    margin-right: 6px;
+}
+
+
+/*  */
+
+.grey {
+    background-color: #f8fafb;
+}
+
+.name input {
+    width: 40%!important;
+}
+
+.email input {
+    width: 40%!important;
+}
+
+.con-fm h2 {
+    padding-bottom: 10px;
+}
+
+.btn-send {
+    margin-top: 20px;
+    background-color: #1d4386;
+    color: #fff;
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+.con-hello {
+    margin-left: 30px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.details-con {
+    padding-top: 60px;
+}
+
+.con-hello p {
+    font-size: 14px!important;
+}

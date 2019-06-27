@@ -1,0 +1,98 @@
+.main {
+    padding-top: 60px;
+    padding-bottom: 50px;
+    text-align: center!important;
+}
+
+.main h2 {
+    padding-bottom: 20px;
+    font-size: 40px;
+}
+
+.main p {
+    font-size: 18px;
+}
+
+.reg h2 {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.reg {
+    text-align: center!important;
+    padding-right: 25px!important;
+    padding-left: 25px!important;
+}
+
+.reg p {
+    font-size: 14px!important;
+    line-height: 1.8;
+}
+
+.agent {
+    padding-bottom: 60px;
+}
+
+.reg .fa {
+    font-size: 50px;
+    color: #1094c3!important;
+    padding-bottom: 40px;
+}
+
+
+/*  */
+
+.location {
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.location .fa {
+    font-size: 32px;
+    color: #1094c3!important;
+    padding-top: 20px;
+}
+
+.location h2 {
+    font-size: 16px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.loc {
+    background-color: #f9f9f9;
+    padding-right: 25px!important;
+    padding-left: 25px!important;
+    border-radius: 8px;
+}
+
+.agent {
+    text-align: center;
+}
+
+.agent h2 {
+    font-size: 30px;
+}
+
+.underline-details {
+    border-bottom: 1px solid #f9f9f9;
+}
+
+.agent h2 {
+    padding-top: 80px;
+}
+
+.all-loc {
+    padding-bottom: 30px;
+}
+
+.grey {
+    background-color: #f9f9f9;
+}
+
+.client {
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
